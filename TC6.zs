@@ -47,7 +47,6 @@ mods.thaumcraft.Crucible.registerRecipe("C:Si", "METALPURIFICATION", <thaumcraft
 mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("bloodychest", "", 50, [], <thaumicbases:bloodychest>, [[xbp, <thaumicbases:crystalblockair>, xbp], [xbp, xbp, xbp], [xbp, xbp, xbp]]);
 mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("bloodyleg", "", 50, [], <thaumicbases:bloodylegs>, [[xbp, xbp, xbp], [xbp, <thaumicbases:crystalblockwater>, xbp], [xbp, null, xbp]]);
 mods.thaumcraft.ArcaneWorkbench.registerShapedRecipe("bloodyboot", "", 50, [], <thaumicbases:bloodyboots>, [[xbp, null, xbp], [xbp, <thaumicbases:crystalblockearth>, xbp]]);
-<thaumicbases:bloodychest>, [[xbp, <thaumicbases:crystalblockair>, xbp], [xbp, xbp, xbp], [xbp, xbp, xbp]]);
 //Infusion
 mods.thaumcraft.Infusion.registerRecipe("Infus_2", "VOIDSEERPEARL", <thaumcraft:curio:2>, 10, [<aspect:cognitio>*15, <aspect:mortuus>*15], <thaumcraft:curio:1>, [gs,<thaumcraft:stone_ancient_glyphed>]);
 mods.thaumcraft.Infusion.registerRecipe("Infus_3", "UNLOCKELDRITCH", <thaumcraft:curio:3>, 8, [<aspect:cognitio>*15, <aspect:alienis>*15], <thaumcraft:curio:1>, [xs, <ore:ingotVoid>]);
